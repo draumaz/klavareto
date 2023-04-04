@@ -14,6 +14,8 @@ curl -sL \
       -C "${HOME}/Library/Keyboard Layouts/" \
       klavareto-main/klavareto.bundle
 ```
+- restartigu
+
 
 # kialo
 - mi ŝatas tajpi aksentojn kun la akuto, tamen macOS normale ne subtenas ĉi tion.
