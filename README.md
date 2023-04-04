@@ -9,7 +9,7 @@
 ```
 curl -sL \
   https://github.com/draumaz/klavareto/archive/refs/heads/main.tar.gz | \
-    tar -xpzf - \
+    bsdtar -xpzf - \
       --strip-components=1 \
       -C "${HOME}/Library/Keyboard Layouts/" \
       klavareto-main/klavareto.bundle
