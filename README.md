@@ -1,4 +1,4 @@
-## Mi rekomendas, ke vi elŝutu *[PumpedSardines/Tajpi](https://github.com/PumpedSardines/Tajpi)*, ĝi pli bonas.
+## Mi rekomendas, ke vi uzu *[PumpedSardines/Tajpi](https://github.com/PumpedSardines/Tajpi)*, se vi volas pli da agordoj.
 
 # klavareto
 - eta klavaro por Apple-komputiluzantaj esperantistoj
