@@ -1,3 +1,5 @@
+## Mi rekomendas, ke vi elŝutu *[PumpedSardines/Tajpi](https://github.com/PumpedSardines/Tajpi)*, ĝi pli bonas.
+
 # klavareto
 - eta klavaro por Apple-komputiluzantaj esperantistoj
 - uzu la akuton (') por aktivigi la cirkumfleksojn
