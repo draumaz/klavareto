@@ -5,8 +5,12 @@
 
 # kiel instali
 ```
-curl -L https://github.com/draumaz/klavareto/archive/refs/heads/main.tar.gz | tar -xpf -
-mv -v klavareto-main/klavareto.bundle "${HOME}/Library/Keyboard Layouts/"
+curl -sL \
+  https://github.com/draumaz/klavareto/archive/refs/heads/main.tar.gz | \
+    tar -xpf - \
+      --strip-components=1 \
+      -C "${HOME}/Library/Keyboard Layouts/" \
+      klavareto-main/klavareto.bundle
 ```
 
 # kialo
