@@ -14,4 +14,4 @@ curl -sL \
 ```
 
 # kialo
-- mi ŝatas tajpi aksentojn kun la akuto, tamen macOS normale ne suportas ĉi tion.
+- mi ŝatas tajpi aksentojn kun la akuto, tamen macOS normale ne subtenas ĉi tion.
